@@ -1,0 +1,60 @@
+{
+  "id": 1243078123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42329,12.60381,-61.42329,12.60381",
+    "geom:latitude":12.60381,
+    "geom:longitude":-61.42329,
+    "gn:asciiname":"Big Sands",
+    "gn:country_code":"VC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281290,
+    "gn:latitude":12.60381,
+    "gn:longitude":-61.42329,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Big Sands",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281290
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"791c22842a8f58768a4bdd9307207d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243078123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243078123,
+    "wof:lastmodified":1536838352,
+    "wof:name":"Big Sands",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42329,
+    12.60381,
+    -61.42329,
+    12.60381
+],
+  "geometry": {"coordinates":[-61.42329,12.60381],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343968517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26882,13.2271,-61.26882,13.2271",
+    "geom:latitude":13.2271,
+    "geom:longitude":-61.26882,
+    "gn:asciiname":"Peter's Hope",
+    "gn:country_code":"VC",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281575,
+    "gn:latitude":13.2271,
+    "gn:longitude":-61.26882,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Peter's Hope",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281575
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"6d1d7636e316bee5f772fc77490d7fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1343968517,
+            "region_id":85680457
+        }
+    ],
+    "wof:id":1343968517,
+    "wof:lastmodified":1537007542,
+    "wof:name":"Peter's Hope",
+    "wof:parent_id":85680457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26882,
+    13.2271,
+    -61.26882,
+    13.2271
+],
+  "geometry": {"coordinates":[-61.26882,13.2271],"type":"Point"}
+}

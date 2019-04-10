@@ -1,0 +1,65 @@
+{
+  "id": 1293894879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22776,13.30313,-61.22776,13.30313",
+    "geom:latitude":13.30313,
+    "geom:longitude":-61.22776,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Richmond",
+    "gn:country_code":"VC",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577831,
+    "gn:latitude":13.30313,
+    "gn:longitude":-61.22776,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Richmond",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577831
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"b64d62d1c19a2ec9cdeac1eeff140f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1293894879,
+            "region_id":85680449
+        }
+    ],
+    "wof:id":1293894879,
+    "wof:lastmodified":1536697117,
+    "wof:name":"Richmond",
+    "wof:parent_id":85680449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22776,
+    13.30313,
+    -61.22776,
+    13.30313
+],
+  "geometry": {"coordinates":[-61.22776,13.30313],"type":"Point"}
+}

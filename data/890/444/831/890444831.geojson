@@ -1,0 +1,86 @@
+{
+  "id": 890444831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13333,13.2,-61.13333,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":-61.13333,
+    "gn:country":"VC",
+    "gn:fcode":"PPL",
+    "gn:pop":1050,
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0430\u0431\u043e\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Biabou"
+    ],
+    "name:eng_x_preferred":[
+        "Biabou"
+    ],
+    "name:ger_x_preferred":[
+        "Biabou"
+    ],
+    "name:lit_x_preferred":[
+        "Biabu"
+    ],
+    "name:pol_x_preferred":[
+        "Biabou"
+    ],
+    "name:por_x_preferred":[
+        "Biabou"
+    ],
+    "name:unk_x_variant":[
+        "Baiabu"
+    ],
+    "qs:name":"Biabou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85632569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577955,
+        "qs:id":1045537,
+        "wd:id":"Q767607",
+        "wk:page":"Biabou"
+    },
+    "wof:country":"VC",
+    "wof:created":1469052483,
+    "wof:geomhash":"d3fcdcdfaefef7afab95321afa708c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632569,
+            "locality_id":890444831
+        }
+    ],
+    "wof:id":890444831,
+    "wof:lastmodified":1527787053,
+    "wof:name":"Biabou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1050,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13333,
+    13.2,
+    -61.13333,
+    13.2
+],
+  "geometry": {"coordinates":[-61.13333,13.2],"type":"Point"}
+}

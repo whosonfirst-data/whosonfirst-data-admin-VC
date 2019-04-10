@@ -1,0 +1,61 @@
+{
+  "id": 1276137125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.11717,13.23811,-61.11717,13.23811",
+    "geom:latitude":13.23811,
+    "geom:longitude":-61.11717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Friendly",
+    "gn:country_code":"VC",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577904,
+    "gn:latitude":13.23811,
+    "gn:longitude":-61.11717,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Friendly",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577904
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"25a2e9ae3eec70f11de4c22f93978bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276137125,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276137125,
+    "wof:lastmodified":1537039851,
+    "wof:name":"Friendly",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.11717,
+    13.23811,
+    -61.11717,
+    13.23811
+],
+  "geometry": {"coordinates":[-61.11717,13.23811],"type":"Point"}
+}

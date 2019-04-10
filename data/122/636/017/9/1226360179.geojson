@@ -1,0 +1,62 @@
+{
+  "id": 1226360179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16854,13.38132,-61.16854,13.38132",
+    "geom:latitude":13.38132,
+    "geom:longitude":-61.16854,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fancy",
+    "gn:country_code":"VC",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577906,
+    "gn:latitude":13.38132,
+    "gn:longitude":-61.16854,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Fancy",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577906,
+        "wk:page":"Fancy%2C_Saint_Vincent_and_the_Grenadines"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"b2ba22e224c6b79a645e1b37da405c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226360179,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226360179,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Fancy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16854,
+    13.38132,
+    -61.16854,
+    13.38132
+],
+  "geometry": {"coordinates":[-61.16854,13.38132],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1360100049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.24313,13.01282,-61.24313,13.01282",
+    "geom:latitude":13.01282,
+    "geom:longitude":-61.24313,
+    "gn:asciiname":"Hamilton",
+    "gn:country_code":"VC",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281475,
+    "gn:latitude":13.01282,
+    "gn:longitude":-61.24313,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Hamilton",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281475
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"9baded46867c2cac69581613c7f7239a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1360100049,
+            "region_id":85680437
+        }
+    ],
+    "wof:id":1360100049,
+    "wof:lastmodified":1536924672,
+    "wof:name":"Hamilton",
+    "wof:parent_id":85680437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.24313000000001,
+    13.01282,
+    -61.24313000000001,
+    13.01282
+],
+  "geometry": {"coordinates":[-61.24313000000001,13.01282],"type":"Point"}
+}

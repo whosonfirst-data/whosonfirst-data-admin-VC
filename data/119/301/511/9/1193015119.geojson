@@ -1,0 +1,76 @@
+{
+  "id": 1193015119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27275,13.23676,-61.27275,13.23676",
+    "geom:latitude":13.23676,
+    "geom:longitude":-61.27275,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Barrouallie",
+    "gn:country_code":"VC",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3577962,
+    "gn:latitude":13.23676,
+    "gn:longitude":-61.27275,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Barrouallie",
+    "gn:population":1000,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Princes Town",
+        "Barrualli",
+        "Barawally",
+        "Barroualie",
+        "Barrouallie"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577962,
+        "wk:page":"Barrouallie"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"e336e447c43319f21c2998f6b450143e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1193015119,
+            "region_id":85680457
+        }
+    ],
+    "wof:id":1193015119,
+    "wof:lastmodified":1537713505,
+    "wof:name":"Barrouallie",
+    "wof:parent_id":85680457,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27275,
+    13.23676,
+    -61.27275,
+    13.23676
+],
+  "geometry": {"coordinates":[-61.27275,13.23676],"type":"Point"}
+}

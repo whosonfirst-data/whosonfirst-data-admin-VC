@@ -1,0 +1,116 @@
+{
+  "id": 421204559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.328516,12.711265,-61.328516,12.711265",
+    "geom:latitude":12.711265,
+    "geom:longitude":-61.328516,
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Kanuan adas\u0131"
+    ],
+    "name:deu_x_preferred":[
+        "Canouan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:fin_x_preferred":[
+        "Canouan"
+    ],
+    "name:fra_x_preferred":[
+        "Canouan"
+    ],
+    "name:glg_x_preferred":[
+        "Canouan"
+    ],
+    "name:ita_x_preferred":[
+        "Canouan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cc\u30a2\u30f3\u5cf6"
+    ],
+    "name:lit_x_preferred":[
+        "Kanuanas"
+    ],
+    "name:pol_x_preferred":[
+        "Canouan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0443\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Canouan"
+    ],
+    "name:swe_x_preferred":[
+        "Canouan Island"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0443\u0430\u043d"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Canouan",
+    "qs:name_adm0":"Saint Vincent and the Grenadines",
+    "qs:name_adm1":"Grenadines",
+    "qs:photos":699,
+    "qs:photos_1k":142,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":699,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":241724,
+    "qs:woe_adm0":23424981,
+    "qs:woe_id":329543,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":987,
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":329543,
+        "qs:id":241724,
+        "wd:id":"Q647143"
+    },
+    "wof:country":"VC",
+    "wof:created":1459010190,
+    "wof:geomhash":"1f80e6af9e79e9a5c7b671540018861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":421204559,
+            "region_id":85680437
+        }
+    ],
+    "wof:id":421204559,
+    "wof:lastmodified":1527716178,
+    "wof:name":"Canouan",
+    "wof:parent_id":85680437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.328516,
+    12.711265,
+    -61.328516,
+    12.711265
+],
+  "geometry": {"coordinates":[-61.328516,12.711265],"type":"Point"}
+}

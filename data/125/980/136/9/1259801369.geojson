@@ -1,0 +1,70 @@
+{
+  "id": 1259801369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.14441,13.32114,-61.14441,13.32114",
+    "geom:latitude":13.32114,
+    "geom:longitude":-61.14441,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Turema",
+    "gn:cc2":"VC",
+    "gn:country_code":"VC",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577796,
+    "gn:latitude":13.32114,
+    "gn:longitude":-61.14441,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Turema",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tourama",
+        "Turema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577796
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"bea0fe3ece8468f56aaa1a45c57b2055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1259801369,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":1259801369,
+    "wof:lastmodified":1537713504,
+    "wof:name":"Turema",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.14441,
+    13.32114,
+    -61.14441,
+    13.32114
+],
+  "geometry": {"coordinates":[-61.14441,13.32114],"type":"Point"}
+}

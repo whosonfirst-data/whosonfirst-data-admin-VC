@@ -1,0 +1,61 @@
+{
+  "id": 1226165057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18404,12.89253,-61.18404,12.89253",
+    "geom:latitude":12.89253,
+    "geom:longitude":-61.18404,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cheltenham",
+    "gn:country_code":"VC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577928,
+    "gn:latitude":12.89253,
+    "gn:longitude":-61.18404,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Cheltenham",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577928
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"8684d922d035fc6485b56118afebf6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226165057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226165057,
+    "wof:lastmodified":1537047878,
+    "wof:name":"Cheltenham",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18404,
+    12.89253,
+    -61.18404,
+    12.89253
+],
+  "geometry": {"coordinates":[-61.18404,12.89253],"type":"Point"}
+}

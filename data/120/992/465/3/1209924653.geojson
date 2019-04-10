@@ -1,0 +1,60 @@
+{
+  "id": 1209924653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.12282,13.33371,-61.12282,13.33371",
+    "geom:latitude":13.33371,
+    "geom:longitude":-61.12282,
+    "gn:asciiname":"Overland",
+    "gn:country_code":"VC",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281529,
+    "gn:latitude":13.33371,
+    "gn:longitude":-61.12282,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Overland",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281529
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"7eb833bfc8397622c962a70c1e7cbacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209924653,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209924653,
+    "wof:lastmodified":1536395441,
+    "wof:name":"Overland",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.12282,
+    13.33371,
+    -61.12282,
+    13.33371
+],
+  "geometry": {"coordinates":[-61.12282,13.33371],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276669491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.23221,13.31151,-61.23221,13.31151",
+    "geom:latitude":13.31151,
+    "geom:longitude":-61.23221,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wallibou",
+    "gn:cc2":"VC",
+    "gn:country_code":"VC",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577791,
+    "gn:latitude":13.31151,
+    "gn:longitude":-61.23221,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Wallibou",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wallibu",
+        "Wallibou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577791
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"e2ab27fd2da676d3e96cd1e7da4eb488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1276669491,
+            "region_id":85680449
+        }
+    ],
+    "wof:id":1276669491,
+    "wof:lastmodified":1537713504,
+    "wof:name":"Wallibou",
+    "wof:parent_id":85680449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.23221,
+    13.31151,
+    -61.23221,
+    13.31151
+],
+  "geometry": {"coordinates":[-61.23221,13.31151],"type":"Point"}
+}

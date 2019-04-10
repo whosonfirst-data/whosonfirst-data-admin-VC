@@ -1,0 +1,66 @@
+{
+  "id": 1259785291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25762,13.28011,-61.25762,13.28011",
+    "geom:latitude":13.28011,
+    "geom:longitude":-61.25762,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Troumaka",
+    "gn:country_code":"VC",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577798,
+    "gn:latitude":13.28011,
+    "gn:longitude":-61.25762,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Troumaka",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577798,
+        "wk:page":"Troumaka"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"da900e8196a141869fecb66c2f115e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1259785291,
+            "region_id":85680449
+        }
+    ],
+    "wof:id":1259785291,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Troumaka",
+    "wof:parent_id":85680449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25762,
+    13.28011,
+    -61.25762,
+    13.28011
+],
+  "geometry": {"coordinates":[-61.25762,13.28011],"type":"Point"}
+}

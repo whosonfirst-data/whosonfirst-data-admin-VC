@@ -1,0 +1,307 @@
+{
+  "id": 85680433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008589,
+    "geom:area_square_m":103368689.013123,
+    "geom:bbox":"-61.2001616764,13.1978493278,-61.1239314436,13.3799518879",
+    "geom:latitude":13.278036,
+    "geom:longitude":-61.154523,
+    "gn:population":38000,
+    "iso:country":"VC",
+    "label:eng_x_preferred_longname":[
+        "Charlotte Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.23466,
+    "lbl:longitude":-61.159061,
+    "mps:latitude":13.23466,
+    "mps:longitude":-61.159061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0634\u0627\u0631\u0644\u0648\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09b0\u09cd\u09b2\u099f \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u590f\u6d1b\u7279\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Charlotte sogn"
+    ],
+    "name:dut_x_preferred":[
+        "Charlotte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bb\u03cc\u03c4\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Charlotte"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Charlotten kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Charlotte"
+    ],
+    "name:fre_x_preferred":[
+        "Charlotte"
+    ],
+    "name:ger_x_preferred":[
+        "Charlotte Parish"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bb\u03cc\u03c4\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0abe\u0ab0\u0acd\u0ab2\u0acb\u0a9f \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0947\u0930\u094d\u0932\u094b\u091f \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Charlotte"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Charlotte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb7\u0cbe\u0cb0\u0ccd\u0cb2\u0cc6\u0c9f\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ec\ub7ff \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160arlotes pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160arlot\u0117s parapija"
+    ],
+    "name:mac_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u093e\u0930\u094d\u0932\u091f \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Charlotte Parish"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Charlotte"
+    ],
+    "name:nob_x_preferred":[
+        "Charlotte prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Charlotte prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Charlotte"
+    ],
+    "name:por_x_preferred":[
+        "Charlottr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dcf\u0dbd\u0da7\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Carlota"
+    ],
+    "name:swe_x_preferred":[
+        "Charlotte Parish"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0b9f\u0bcd\u0b9f\u0bc7  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c1f\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e23\u0e4c\u0e25\u0e2d\u0e15\u0e15\u0e4c \u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e27\u0e34\u0e19\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e41\u0e25\u0e30\u0e40\u0e01\u0e23\u0e19\u0e32\u0e14\u0e35\u0e19\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Charlotte Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Parish of Charlotte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0679 \u067e\u06cc\u0631\u0634\u060c \u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Charlotte"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u6d1b\u7279\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"VCT",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"VCT-5063",
+    "ne:adm1_code":"VCT-5063",
+    "ne:admin":"Saint Vincent and the Grenadines",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"VC.CH",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5063",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"VC01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Vincent and the Grenadines",
+    "ne:gn_a1_code":"VC.01",
+    "ne:gn_id":"3577934",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parish of Charlotte",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"VC01",
+    "ne:gns_id":"-1204430",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Charlotte, Parish of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"VCT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"VC-01",
+    "ne:iso_a2":"VC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.28250000000",
+    "ne:longitude":"-61.14750000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Charlotte",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CH",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"VCT",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Charlotte_Parish_(Saint_Vincent_and_the_Grenadines)",
+    "ne:woe_id":2347671,
+    "ne:woe_label":"Charlotte, VC, Saint Vincent and the Grenadines",
+    "ne:woe_name":"Charlotte",
+    "qs:a0":"Saint Vincent and the Grenadines",
+    "qs:a0_lc":"VC",
+    "qs:a1":"Charlotte",
+    "qs:a1_lc":"VCT-5063",
+    "qs:adm0":"Saint Vincent and the Grenadines",
+    "qs:adm0_a3":"VCT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-01-01",
+    "statoids:area_km":"149",
+    "statoids:area_mi":"57",
+    "statoids:as_of_date":"2000-01-01",
+    "statoids:capital":"Georgetown",
+    "statoids:country":"VC",
+    "statoids:gec":"VC01",
+    "statoids:hasc":"VC.CH",
+    "statoids:iso":"01",
+    "statoids:name":"Charlotte",
+    "statoids:population":"38000",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"VC-01",
+    "wd:wordcount":637,
+    "wof:belongsto":[
+        102191575,
+        85632569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"VC01",
+        "gn:id":3577934,
+        "gp:id":2347671,
+        "hasc:id":"VC.CH",
+        "iso:id":"VC-01",
+        "qs:id":219630,
+        "unlc:id":"VC-01",
+        "wd:id":"Q2075188",
+        "wk:page":"Charlotte Parish, Saint Vincent and the Grenadines"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"9ea1d9cd618c241bfc5abfeb2778de00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":85680433,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550569,
+    "wof:name":"Charlotte",
+    "wof:parent_id":85632569,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":38000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:shortcode":"CH",
+    "wof:subdivision":"VC-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20016167642018,
+    13.1978493277843,
+    -61.12393144358123,
+    13.37995188786937
+],
+  "geometry": {"coordinates":[[[-61.13553623950583,13.1978493277843],[-61.14771695047682,13.20258655702406],[-61.16279480943285,13.2052087939507],[-61.17459487245537,13.2032421169302],[-61.18770605439084,13.21241994392534],[-61.19277309020589,13.21668692126445],[-61.20016167642018,13.22290888893411],[-61.19885055840649,13.23929786590384],[-61.19491720436542,13.24913125190579],[-61.18770605439084,13.26289799284814],[-61.17459487245537,13.26027575682076],[-61.17197263642799,13.27338693875629],[-61.17066151841431,13.29239815175333],[-61.17197263642799,13.30878712872305],[-61.17262819543481,13.3225538696654],[-61.1693503995013,13.34090952365563],[-61.16082813151303,13.34222064256863],[-61.16148369051984,13.35533182360484],[-61.17131707742112,13.35926517854523],[-61.17125929597967,13.37995188786937],[-61.1512345038692,13.37677643388537],[-61.14403235610831,13.37409088738457],[-61.14004472618313,13.36737702023333],[-61.13377844981557,13.35276927288368],[-61.12393144358123,13.30825429929655],[-61.12441972598953,13.24697500229456],[-61.13553623950583,13.1978493277843]]],"type":"Polygon"}
+}

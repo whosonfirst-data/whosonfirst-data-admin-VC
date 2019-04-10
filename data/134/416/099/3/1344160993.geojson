@@ -1,0 +1,61 @@
+{
+  "id": 1344160993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.11999,13.3136,-61.11999,13.3136",
+    "geom:latitude":13.3136,
+    "geom:longitude":-61.11999,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Orange Hill",
+    "gn:country_code":"VC",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577859,
+    "gn:latitude":13.3136,
+    "gn:longitude":-61.11999,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Orange Hill",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577859
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"5a3339ffa380d4c73bea8ea3437c7c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344160993,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344160993,
+    "wof:lastmodified":1536730842,
+    "wof:name":"Orange Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.11999,
+    13.3136,
+    -61.11999,
+    13.3136
+],
+  "geometry": {"coordinates":[-61.11999,13.3136],"type":"Point"}
+}

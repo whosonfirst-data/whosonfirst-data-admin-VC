@@ -1,0 +1,65 @@
+{
+  "id": 1259480921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18786,12.88352,-61.18786,12.88352",
+    "geom:latitude":12.88352,
+    "geom:longitude":-61.18786,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lovell Village",
+    "gn:country_code":"VC",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577877,
+    "gn:latitude":12.88352,
+    "gn:longitude":-61.18786,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Lovell Village",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577877,
+        "wk:page":"Lovell_Village%2C_Saint_Vincent_and_the_Grenadines"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"d59de3ddd847fc42f0d0e8816f1c1e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1259480921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259480921,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Lovell Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18786,
+    12.88352,
+    -61.18786,
+    12.88352
+],
+  "geometry": {"coordinates":[-61.18786,12.88352],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209524371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26681,13.19328,-61.26681,13.19328",
+    "geom:latitude":13.19328,
+    "geom:longitude":-61.26681,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buccament",
+    "gn:country_code":"VC",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072630,
+    "gn:latitude":13.19328,
+    "gn:longitude":-61.26681,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Buccament",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072630
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"aba6957d627b60d1a617e4eef73ff6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632569,
+            "locality_id":1209524371
+        }
+    ],
+    "wof:id":1209524371,
+    "wof:lastmodified":1536284478,
+    "wof:name":"Buccament",
+    "wof:parent_id":85632569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26681,
+    13.19328,
+    -61.26681,
+    13.19328
+],
+  "geometry": {"coordinates":[-61.26681,13.19328],"type":"Point"}
+}

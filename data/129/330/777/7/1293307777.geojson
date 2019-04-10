@@ -1,0 +1,60 @@
+{
+  "id": 1293307777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.11724,13.28387,-61.11724,13.28387",
+    "geom:latitude":13.28387,
+    "geom:longitude":-61.11724,
+    "gn:asciiname":"Caratal Village",
+    "gn:country_code":"VC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281521,
+    "gn:latitude":13.28387,
+    "gn:longitude":-61.11724,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Caratal Village",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281521
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"74baafba5065af7e433c96dee92b3451",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293307777,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293307777,
+    "wof:lastmodified":1537044214,
+    "wof:name":"Caratal Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.11724,
+    13.28387,
+    -61.11724,
+    13.28387
+],
+  "geometry": {"coordinates":[-61.11724,13.28387],"type":"Point"}
+}

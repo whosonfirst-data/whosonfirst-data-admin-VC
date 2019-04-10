@@ -1,0 +1,67 @@
+{
+  "id": 1309915447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.11641,13.24041,-61.11641,13.24041",
+    "geom:latitude":13.24041,
+    "geom:longitude":-61.11641,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Colonarie",
+    "gn:cc2":"VC",
+    "gn:country_code":"VC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577923,
+    "gn:latitude":13.24041,
+    "gn:longitude":-61.11641,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Colonarie",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belle Vue",
+        "Colonarie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577923,
+        "wk:page":"Colonarie"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"c6e73281fff82b5d533a74a0f2ca7c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309915447,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309915447,
+    "wof:lastmodified":1537713505,
+    "wof:name":"Colonarie",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.11641,
+    13.24041,
+    -61.11641,
+    13.24041
+],
+  "geometry": {"coordinates":[-61.11641,13.24041],"type":"Point"}
+}

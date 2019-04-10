@@ -1,0 +1,66 @@
+{
+  "id": 1293389061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25068,13.26212,-61.25068,13.26212",
+    "geom:latitude":13.26212,
+    "geom:longitude":-61.25068,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Spring Village",
+    "gn:country_code":"VC",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577803,
+    "gn:latitude":13.26212,
+    "gn:longitude":-61.25068,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Spring Village",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577803,
+        "wk:page":"Spring_Village"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"717448313f527d4e1cfef24969281070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1293389061,
+            "region_id":85680449
+        }
+    ],
+    "wof:id":1293389061,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Spring Village",
+    "wof:parent_id":85680449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25068,
+    13.26212,
+    -61.25068,
+    13.26212
+],
+  "geometry": {"coordinates":[-61.25068,13.26212],"type":"Point"}
+}

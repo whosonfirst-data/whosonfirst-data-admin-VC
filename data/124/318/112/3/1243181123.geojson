@@ -1,0 +1,66 @@
+{
+  "id": 1243181123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.23333,13.16667,-61.23333,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":-61.23333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Questelles",
+    "gn:country_code":"VC",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577839,
+    "gn:latitude":13.16667,
+    "gn:longitude":-61.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Questelles",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577839,
+        "wk:page":"Questelles"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"a6d3f22215aa6ca489a339ef1032c727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1243181123,
+            "region_id":85680451
+        }
+    ],
+    "wof:id":1243181123,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Questelles",
+    "wof:parent_id":85680451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.23333,
+    13.16667,
+    -61.23333,
+    13.16667
+],
+  "geometry": {"coordinates":[-61.23333,13.16667],"type":"Point"}
+}

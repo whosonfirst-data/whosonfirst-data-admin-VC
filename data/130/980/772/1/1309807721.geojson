@@ -1,0 +1,66 @@
+{
+  "id": 1309807721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.15,13.2,-61.15,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":-61.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Greiggs",
+    "gn:country_code":"VC",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577893,
+    "gn:latitude":13.2,
+    "gn:longitude":-61.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Greiggs",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577893,
+        "wk:page":"Greiggs"
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"4d9b375ab90b476dde8d5dd86ecd7700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1309807721,
+            "region_id":85680451
+        }
+    ],
+    "wof:id":1309807721,
+    "wof:lastmodified":1537575798,
+    "wof:name":"Greiggs",
+    "wof:parent_id":85680451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.15,
+    13.2,
+    -61.15,
+    13.2
+],
+  "geometry": {"coordinates":[-61.15,13.2],"type":"Point"}
+}

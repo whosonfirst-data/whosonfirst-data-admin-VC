@@ -1,0 +1,64 @@
+{
+  "id": 1293311289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27268,13.2432,-61.27268,13.2432",
+    "geom:latitude":13.2432,
+    "geom:longitude":-61.27268,
+    "gn:asciiname":"Keartons",
+    "gn:country_code":"VC",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281572,
+    "gn:latitude":13.2432,
+    "gn:longitude":-61.27268,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Keartons",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281572
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"558a35d0f804d5e5656ca5cf03742b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1293311289,
+            "region_id":85680457
+        }
+    ],
+    "wof:id":1293311289,
+    "wof:lastmodified":1537039383,
+    "wof:name":"Keartons",
+    "wof:parent_id":85680457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27268,
+    13.2432,
+    -61.27268,
+    13.2432
+],
+  "geometry": {"coordinates":[-61.27268,13.2432],"type":"Point"}
+}

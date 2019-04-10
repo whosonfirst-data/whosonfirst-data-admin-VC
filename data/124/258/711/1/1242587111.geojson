@@ -1,0 +1,65 @@
+{
+  "id": 1242587111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13136,13.22378,-61.13136,13.22378",
+    "geom:latitude":13.22378,
+    "geom:longitude":-61.13136,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sans Souci",
+    "gn:country_code":"VC",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577810,
+    "gn:latitude":13.22378,
+    "gn:longitude":-61.13136,
+    "gn:modification_date":"2015-09-19",
+    "gn:name":"Sans Souci",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577810
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"b22ffaa670737d358ad4e697d9c8c641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1242587111,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":1242587111,
+    "wof:lastmodified":1537047810,
+    "wof:name":"Sans Souci",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13136,
+    13.22378,
+    -61.13136,
+    13.22378
+],
+  "geometry": {"coordinates":[-61.13136,13.22378],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344154821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39431,12.63854,-61.39431,12.63854",
+    "geom:latitude":12.63854,
+    "geom:longitude":-61.39431,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Old Wall",
+    "gn:country_code":"VC",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577861,
+    "gn:latitude":12.63854,
+    "gn:longitude":-61.39431,
+    "gn:modification_date":"2014-04-17",
+    "gn:name":"Old Wall",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569,
+        85680437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577861
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"dbd637b6d1a7e8ca369df6888046984a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1344154821,
+            "region_id":85680437
+        }
+    ],
+    "wof:id":1344154821,
+    "wof:lastmodified":1536739338,
+    "wof:name":"Old Wall",
+    "wof:parent_id":85680437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39431,
+    12.63854,
+    -61.39431,
+    12.63854
+],
+  "geometry": {"coordinates":[-61.39431,12.63854],"type":"Point"}
+}

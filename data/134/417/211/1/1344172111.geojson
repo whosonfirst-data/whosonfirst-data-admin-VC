@@ -1,0 +1,63 @@
+{
+  "id": 1344172111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.12754,13.23289,-61.12754,13.23289",
+    "geom:latitude":13.23289,
+    "geom:longitude":-61.12754,
+    "gn:asciiname":"Mt Grenan",
+    "gn:country_code":"VC",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10300296,
+    "gn:latitude":13.23289,
+    "gn:longitude":-61.12754,
+    "gn:modification_date":"2015-06-02",
+    "gn:name":"Mt Grenan",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10300296
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"6b03f2f5de61164d4c2907f48cbf304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":1344172111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344172111,
+    "wof:lastmodified":1536714716,
+    "wof:name":"Mt Grenan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.12754,
+    13.23289,
+    -61.12754,
+    13.23289
+],
+  "geometry": {"coordinates":[-61.12754,13.23289],"type":"Point"}
+}

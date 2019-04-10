@@ -1,0 +1,61 @@
+{
+  "id": 1326944523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1188,13.2862,-61.1188,13.2862",
+    "geom:latitude":13.2862,
+    "geom:longitude":-61.1188,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chapmans",
+    "gn:country_code":"VC",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577938,
+    "gn:latitude":13.2862,
+    "gn:longitude":-61.1188,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"Chapmans",
+    "gn:population":0,
+    "gn:timezone":"America/St_Vincent",
+    "iso:country":"VC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577938
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"54bf592878e1fd2cf6e1d7b7ad6f6fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326944523,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326944523,
+    "wof:lastmodified":1536886541,
+    "wof:name":"Chapmans",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1188,
+    13.2862,
+    -61.1188,
+    13.2862
+],
+  "geometry": {"coordinates":[-61.1188,13.2862],"type":"Point"}
+}
