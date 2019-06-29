@@ -18,20 +18,17 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0442\u0435\u0430\u0443\u0431\u0435\u043b\u0430\u0438\u0440"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chateaubelair"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c4\u03c9\u03bc\u03c0\u03b5\u03bb\u03b1\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Chateaubelair"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chateaubelair"
-    ],
-    "name:ger_x_preferred":[
-        "Chateaubelair"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c4\u03c9\u03bc\u03c0\u03b5\u03bb\u03b1\u03af\u03c1"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05d8\u05d5\u05d1\u05dc\u05d9\u05d9\u05e8"
@@ -41,6 +38,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160atobleras"
+    ],
+    "name:nld_x_preferred":[
+        "Chateaubelair"
     ],
     "name:pol_x_preferred":[
         "Chateaubelair"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":890429327,
-    "wof:lastmodified":1527792796,
+    "wof:lastmodified":1561827009,
     "wof:name":"Chateaubelair",
     "wof:parent_id":85680449,
     "wof:placetype":"locality",

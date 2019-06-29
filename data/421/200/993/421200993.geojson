@@ -16,7 +16,7 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a\u0648"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Layou"
     ],
     "name:eng_x_preferred":[
@@ -25,17 +25,14 @@
     "name:fra_x_preferred":[
         "Layou"
     ],
-    "name:fre_x_preferred":[
-        "Layou"
-    ],
-    "name:ger_x_preferred":[
-        "Layou"
-    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30e8\u30fc"
     ],
     "name:lit_x_preferred":[
         "Laju"
+    ],
+    "name:nld_x_preferred":[
+        "Layou"
     ],
     "name:nob_x_preferred":[
         "Layou"
@@ -44,9 +41,6 @@
         "Layou"
     ],
     "name:ron_x_preferred":[
-        "Layou"
-    ],
-    "name:rum_x_preferred":[
         "Layou"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421200993,
-    "wof:lastmodified":1527716426,
+    "wof:lastmodified":1561827009,
     "wof:name":"Layou",
     "wof:parent_id":85680443,
     "wof:placetype":"locality",
