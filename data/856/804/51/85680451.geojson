@@ -31,14 +31,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09b0\u09cd\u099c \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u55ac\u6cbb\u5340"
-    ],
     "name:dan_x_preferred":[
         "Saint George sogn"
     ],
-    "name:dut_x_preferred":[
-        "Saint George"
+    "name:deu_x_preferred":[
+        "Parish of Saint George"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
@@ -59,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-George"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-George"
-    ],
-    "name:ger_x_preferred":[
-        "Parish of Saint George"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -96,17 +84,14 @@
     "name:lit_x_preferred":[
         "\u0160v. Jurgio parapija"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u043d\u0442 \u040f\u043e\u0440\u045f"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u092a\u0945\u0930\u0940\u0936"
     ],
-    "name:may_x_preferred":[
-        "Saint George Parish"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043d\u0442 \u040f\u043e\u0440\u045f"
+    ],
+    "name:msa_x_preferred":[
+        "Saint George Parish"
     ],
     "name:nld_x_preferred":[
         "Saint George"
@@ -116,9 +101,6 @@
     ],
     "name:nor_x_preferred":[
         "Saint George prestegjeld"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a \u062c\u0648\u0631\u062c \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
     ],
     "name:pol_x_preferred":[
         "Saint George"
@@ -287,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550570,
+    "wof:lastmodified":1561827008,
     "wof:name":"Saint George",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

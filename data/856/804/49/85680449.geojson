@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007664,
-    "geom:area_square_m":92221379.295471,
+    "geom:area_square_m":92221379.295449,
     "geom:bbox":"-61.2703751291,13.25533385,-61.1608281315,13.3807640656",
     "geom:latitude":13.311944,
     "geom:longitude":-61.206616,
@@ -31,14 +31,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09a1\u09c7\u09ad\u09bf\u09a1 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5927\u885b\u5340"
-    ],
     "name:dan_x_preferred":[
         "Saint David sogn"
     ],
-    "name:dut_x_preferred":[
-        "Saint David"
+    "name:deu_x_preferred":[
+        "Saint David Parish"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b1\u03b2\u03af\u03b4"
@@ -59,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-David"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-David"
-    ],
-    "name:ger_x_preferred":[
-        "Saint David Parish"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b1\u03b2\u03af\u03b4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa1\u0ac7\u0ab5\u0abf\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -96,17 +84,14 @@
     "name:lit_x_preferred":[
         "\u0160v. Dovydo parapija"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u043d\u0442 \u0414\u0435\u0458\u0432\u0438\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0921\u0947\u0935\u094d\u0939\u093f\u0921 \u092a\u0945\u0930\u0940\u0936"
     ],
-    "name:may_x_preferred":[
-        "Saint David Parish"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043d\u0442 \u0414\u0435\u0458\u0432\u0438\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Saint David Parish"
     ],
     "name:nld_x_preferred":[
         "Saint David"
@@ -116,9 +101,6 @@
     ],
     "name:nor_x_preferred":[
         "Saint David prestegjeld"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a \u062f\u06cc\u0648\u06cc\u062f \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
     ],
     "name:pol_x_preferred":[
         "Saint David"
@@ -287,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561827008,
     "wof:name":"Saint David",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

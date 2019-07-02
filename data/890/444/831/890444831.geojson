@@ -18,17 +18,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0430\u0431\u043e\u0443"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Biabou"
     ],
     "name:eng_x_preferred":[
         "Biabou"
     ],
-    "name:ger_x_preferred":[
-        "Biabou"
-    ],
     "name:lit_x_preferred":[
         "Biabu"
+    ],
+    "name:nld_x_preferred":[
+        "Biabou"
     ],
     "name:pol_x_preferred":[
         "Biabou"
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":890444831,
-    "wof:lastmodified":1527787053,
+    "wof:lastmodified":1561827009,
     "wof:name":"Biabou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
