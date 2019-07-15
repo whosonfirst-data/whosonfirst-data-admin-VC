@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Layou"
+    ],
     "name:deu_x_preferred":[
         "Layou"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06cc\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5c24"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421200993,
-    "wof:lastmodified":1561827009,
+    "wof:lastmodified":1563234922,
     "wof:name":"Layou",
     "wof:parent_id":85680443,
     "wof:placetype":"locality",

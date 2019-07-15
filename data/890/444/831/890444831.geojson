@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0430\u0431\u043e\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Biabou"
+    ],
     "name:deu_x_preferred":[
         "Biabou"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:unk_x_variant":[
         "Baiabu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9e\u5e03"
     ],
     "qs:name":"Biabou",
     "qs:photos_9r":0,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890444831,
-    "wof:lastmodified":1561827009,
+    "wof:lastmodified":1563234923,
     "wof:name":"Biabou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -60,7 +60,8 @@
         "Saint Vincent y les Granadines"
     ],
     "name:ast_x_variant":[
-        "San Vicente y Les Granadines"
+        "San Vicente y Les Granadines",
+        "San Vicente y les Granadines"
     ],
     "name:aym_x_preferred":[
         "Saint Winsent wan Grenadinak"
@@ -137,6 +138,9 @@
     "name:cdo_x_preferred":[
         "S\u00e9ng Vincent g\u00e2e\u0324ng Grenadines"
     ],
+    "name:cdo_x_variant":[
+        "Saint Vincent g\u00e2e\u0324ng Grenadines"
+    ],
     "name:ceb_x_preferred":[
         "Saint Vincent ug ang Grenadines"
     ],
@@ -150,6 +154,9 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0430, \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0430\u0448 \u0430",
         "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0430"
+    ],
+    "name:che_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0430 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u06cc\u0646\u062a \u06a4\u06cc\u0646\u0633\u06d5\u0646\u062a \u0648 \u06af\u0631\u06cc\u0646\u0627\u062f\u06cc\u0646\u0632"
@@ -183,6 +190,9 @@
     ],
     "name:dsb_x_preferred":[
         "Saint Vincent a Grenadiny"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u0947\u0928\u094d\u091f \u092d\u093f\u0928\u094d\u0938\u0947\u0928\u094d\u091f \u0930 \u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093e\u0907\u0928\u094d\u0938"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b9\u03ba\u03ad\u03bd\u03c4\u03b9\u03bf\u03c2 \u03ba\u03b1\u03b9 \u0393\u03c1\u03b5\u03bd\u03b1\u03b4\u03af\u03bd\u03b5\u03c2"
@@ -242,7 +252,8 @@
         "St Vinsent og Grenadinoyggjar"
     ],
     "name:fao_x_variant":[
-        "Saint Vinsent og Grenadinoyggjar"
+        "Saint Vinsent og Grenadinoyggjar",
+        "St. Vinsent og Grenadinoyggjar"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
@@ -294,7 +305,8 @@
         "San Vicente e Granadinas"
     ],
     "name:glg_x_variant":[
-        "San Vicente e Granadinas - Saint Vincent and the Grenadines"
+        "San Vicente e Granadinas - Saint Vincent and the Grenadines",
+        "San Vicente e as Granadinas"
     ],
     "name:glv_x_preferred":[
         "Noo Winsen as ny Grenadeenyn"
@@ -302,11 +314,23 @@
     "name:gom_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0935\u094d\u0939\u093f\u0928\u094d\u0938\u0947\u0902\u091f \u0906\u0923\u093f \u0917\u094d\u0930\u0947\u0928\u0947\u0921\u0940\u0928\u094d\u0938"
     ],
+    "name:grn_x_preferred":[
+        "San Vicente ha Granadinas"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Vincent und d Grenadine"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0ab5\u0abf\u0a82\u0ab8\u0ac7\u0a82\u0a9f \u0a8f\u0a82\u0aa1 \u0aa7 \u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0abf\u0aa8\u0acd\u0ab8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab5\u0abf\u0aa8\u0acd\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0aa8\u0acd\u0aa1 \u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0ac0\u0aa8\u0ac7\u0ab8"
+    ],
     "name:hak_x_preferred":[
         "S\u1e73n Vincent l\u00e2u Grenadines"
+    ],
+    "name:hak_x_variant":[
+        "Saint Vincent l\u00e2u Grenadines"
     ],
     "name:hat_x_preferred":[
         "Sen Vensan ak Grenadin"
@@ -448,6 +472,9 @@
     "name:lav_x_preferred":[
         "Sentvinsenta un Grenad\u012bnas"
     ],
+    "name:lfn_x_preferred":[
+        "San Vinsent e la Grenadines"
+    ],
     "name:lij_x_preferred":[
         "San Vi\u00e7en\u00e7o e Grenadinn-e"
     ],
@@ -526,8 +553,14 @@
     "name:mya_x_variant":[
         "\u1005\u102d\u1014\u1037\u103a\u1017\u1004\u103a\u1038\u1006\u1004\u1037\u103a\u1014\u103e\u1004\u1037\u103a\u1002\u101b\u102d\u1014\u1031\u1012\u102d\u102f\u1004\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0434\u044b \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0442"
+    ],
     "name:nah_x_preferred":[
         "San Vicente \u012bhu\u0101n in Granadinas"
+    ],
+    "name:nan_x_preferred":[
+        "Saint Vincent kap Grenadines"
     ],
     "name:nde_x_preferred":[
         "Saint Vincent and the Grenadines"
@@ -537,6 +570,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u0947\u0928\u094d\u091f \u092d\u093f\u0928\u094d\u0938\u0947\u0928\u094d\u091f \u0930 \u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093f\u0928\u094d\u0938"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u0947\u0928\u094d\u091f \u092d\u093f\u0928\u094d\u0938\u0947\u0928\u094d\u091f \u090f\u0928\u094d\u0921 \u0926 \u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093f\u0928\u0947\u0938"
     ],
     "name:nld_x_preferred":[
         "Saint Vincent en de Grenadines"
@@ -571,6 +607,9 @@
     "name:oci_x_preferred":[
         "Sant Vincen\u00e7 e las Grenadinas"
     ],
+    "name:olo_x_preferred":[
+        "Sent-Vinsent da Grenadinat"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b2d\u0b3f\u0b28\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b13 \u0b17\u0b4d\u0b30\u0b3f\u0b28\u0b47\u0b21\u0b3e\u0b28\u0b4d\u0b38"
     ],
@@ -585,6 +624,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a47\u0a02\u0a1f \u0a35\u0a3f\u0a28\u0a38\u0a48\u0a02\u0a1f \u0a05\u0a24\u0a47 \u0a17\u0a4d\u0a30\u0a47\u0a28\u0a3e\u0a21\u0a40\u0a28\u0a1c\u0a3c"
+    ],
+    "name:pih_x_preferred":[
+        "Saint Vincent a' t' Grenadines"
     ],
     "name:pms_x_preferred":[
         "San Vincens e Grenadin-e"
@@ -609,6 +651,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0633\u06d0\u0646\u067c \u0648\u06d0\u0646\u0633\u06d0\u0646\u067c \u0627\u0648 \u06ab\u0631\u06d0\u0646\u0627\u0689\u064a\u0646\u0632"
+    ],
+    "name:que_x_preferred":[
+        "San Wisinti Granadinas-pas"
     ],
     "name:roh_x_preferred":[
         "Saint Vincent e las Grenadinas"
@@ -642,6 +687,12 @@
     "name:sco_x_preferred":[
         "Saunt Vincent an the Grenadines"
     ],
+    "name:sgs_x_preferred":[
+        "Sent Vinsents \u0117r Gr\u0117nadin\u0101"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dc0\u0dd2\u0db1\u0dca\u0dc3\u0db1\u0dca\u0da7\u0dca \u0dc3\u0dc4 \u0d9c\u0dca\u200d\u0dbb\u0dd9\u0db1\u0dcf\u0da9\u0dd2\u0db1\u0dca\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Sv\u00e4t\u00fd Vincent a Grenad\u00edny"
     ],
@@ -657,6 +708,9 @@
     ],
     "name:sme_x_preferred":[
         "Saint Vincent ja Grenadine"
+    ],
+    "name:sme_x_variant":[
+        "Saint Vincent ja Grenadiinnat"
     ],
     "name:sna_x_preferred":[
         "Saint Vincent and the Grenadines"
@@ -710,8 +764,14 @@
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb0\u0bc6\u0ba9\u0b9f\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd. \u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0bb0\u0bc6\u0ba9\u0bc7\u0b9f\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u04bb\u04d9\u043c \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0430\u043b\u0430\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c17\u0c4d\u0c30\u0c46\u0c28\u0c21\u0c40\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c26\u0c3f \u0c17\u0c4d\u0c30\u0c46\u0c28\u0c47\u0c21\u0c48\u0c28\u0c4d\u0c38\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Saun Visente no Granadinas"
@@ -733,6 +793,9 @@
     ],
     "name:ton_x_preferred":[
         "Seini Viniseni mo Kulenatini"
+    ],
+    "name:tuk_x_preferred":[
+        "Sent-Winsent we Grenadin"
     ],
     "name:tur_x_preferred":[
         "Saint Vincent ve Grenadinler"
@@ -781,6 +844,9 @@
     ],
     "name:vol_x_preferred":[
         "Saluda-Vinsente\u00e4n e Grenadine\u00e4ns"
+    ],
+    "name:vro_x_preferred":[
+        "Saint Vincent ja Grenadiiniq"
     ],
     "name:war_x_preferred":[
         "San Vincente ngan an Grenadines"
@@ -968,7 +1034,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059205,
+    "wof:lastmodified":1563234905,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
