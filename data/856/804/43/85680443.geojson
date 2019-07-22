@@ -31,11 +31,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09cd\u09b0\u09c1 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Parish of Saint Andrew"
+    ],
     "name:dan_x_preferred":[
         "Saint Andrew sogn"
     ],
     "name:deu_x_preferred":[
         "Saint Andrew Parish"
+    ],
+    "name:deu_x_variant":[
+        "Saint Andrew"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
@@ -53,6 +59,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a \u0627\u0646\u062f\u0631\u0648 \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a \u0627\u0646\u062f\u0631\u0648 \u067e\u0631\u06cc\u0634"
     ],
     "name:fin_x_preferred":[
         "Saint Andrewin pit\u00e4j\u00e4"
@@ -143,6 +152,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648 \u067e\u06cc\u0631\u0634\u060c \u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648 \u067e\u0631\u06cc\u0634"
     ],
     "name:vie_x_preferred":[
         "Saint Andrew"
@@ -272,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561827008,
+    "wof:lastmodified":1563234901,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

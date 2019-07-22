@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0442\u0435\u0430\u0443\u0431\u0435\u043b\u0430\u0438\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Chateaubelair"
+    ],
     "name:deu_x_preferred":[
         "Chateaubelair"
     ],
@@ -57,6 +60,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u062a\u0648\u0628\u06cc\u0644\u06d2"
     ],
+    "name:zho_x_preferred":[
+        "\u6c99\u6258\u5e03\u840a\u723e"
+    ],
     "qs:name":"Chateaubelair",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890429327,
-    "wof:lastmodified":1561827009,
+    "wof:lastmodified":1563234925,
     "wof:name":"Chateaubelair",
     "wof:parent_id":85680449,
     "wof:placetype":"locality",
