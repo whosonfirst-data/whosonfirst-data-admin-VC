@@ -25,6 +25,9 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Peruvian Vale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632569
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209332399,
-    "wof:lastmodified":1537575798,
+    "wof:lastmodified":1564302055,
     "wof:name":"Peruvian Vale",
     "wof:parent_id":85632569,
     "wof:placetype":"locality",

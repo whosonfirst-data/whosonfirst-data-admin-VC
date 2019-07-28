@@ -25,6 +25,15 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Calliaqua"
+    ],
+    "name:pol_x_preferred":[
+        "Calliaqua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u4e9e\u5938"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1343262471,
-    "wof:lastmodified":1537575798,
+    "wof:lastmodified":1564302048,
     "wof:name":"Calliaqua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

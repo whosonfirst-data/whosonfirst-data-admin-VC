@@ -25,6 +25,12 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camden Park"
+    ],
+    "name:swe_x_preferred":[
+        "Camden Park"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1309812359,
-    "wof:lastmodified":1536922175,
+    "wof:lastmodified":1564302066,
     "wof:name":"Camden Park",
     "wof:parent_id":85680451,
     "wof:placetype":"locality",
