@@ -26,6 +26,12 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Colonarie"
+    ],
+    "name:est_x_preferred":[
+        "Colonarie"
+    ],
     "name:und_x_variant":[
         "Belle Vue",
         "Colonarie"
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309915447,
-    "wof:lastmodified":1537713505,
+    "wof:lastmodified":1564302065,
     "wof:name":"Colonarie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

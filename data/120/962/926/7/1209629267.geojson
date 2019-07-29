@@ -26,6 +26,9 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mesopotamia"
+    ],
     "name:und_x_variant":[
         "Mesopatamia",
         "Mesopotamia"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209629267,
-    "wof:lastmodified":1537713505,
+    "wof:lastmodified":1564302053,
     "wof:name":"Mesopotamia",
     "wof:parent_id":85632569,
     "wof:placetype":"locality",

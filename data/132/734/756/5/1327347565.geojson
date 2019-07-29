@@ -25,6 +25,9 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Richland Park"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1327347565,
-    "wof:lastmodified":1537575798,
+    "wof:lastmodified":1564302045,
     "wof:name":"Richland Park",
     "wof:parent_id":85680451,
     "wof:placetype":"locality",

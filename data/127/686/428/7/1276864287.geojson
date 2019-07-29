@@ -25,6 +25,12 @@
     "iso:country":"VC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Derrick"
+    ],
+    "name:lit_x_preferred":[
+        "Derikas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1276864287,
-    "wof:lastmodified":1537575798,
+    "wof:lastmodified":1564302050,
     "wof:name":"Derrick",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
