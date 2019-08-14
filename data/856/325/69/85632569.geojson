@@ -16,6 +16,9 @@
         "1-784"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "VC"
+    ],
     "lbl:latitude":13.23357,
     "lbl:longitude":-61.199573,
     "mps:latitude":13.23357,
@@ -1025,16 +1028,13 @@
         }
     ],
     "wof:id":85632569,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563234905,
+    "wof:lastmodified":1565738668,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
