@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Vincent",
     "iso:country":"VC",
+    "lbl:bbox":"-61.16879,13.26472,-61.12879,13.30472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1327044385,
-    "wof:lastmodified":1536742834,
+    "wof:lastmodified":1566644082,
     "wof:name":"O'Briens",
     "wof:parent_id":85680433,
     "wof:placetype":"locality",

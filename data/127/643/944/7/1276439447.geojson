@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Vincent",
     "iso:country":"VC",
+    "lbl:bbox":"-61.35062,12.68042,-61.31062,12.72042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Charlestown"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1276439447,
-    "wof:lastmodified":1564302051,
+    "wof:lastmodified":1566644086,
     "wof:name":"Charlestown",
     "wof:parent_id":85680437,
     "wof:placetype":"locality",

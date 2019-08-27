@@ -11,10 +11,14 @@
     "geom:longitude":-61.23333,
     "gn:country":"VC",
     "gn:fcode":"PPLA",
-    "gn:pop":839,
+    "gn:population":839,
     "iso:country":"VC",
+    "lbl:bbox":"-61.25333,12.99667,-61.21333,13.03667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0625\u0644\u064a\u0632\u0627\u0628\u064a\u062b"
     ],
@@ -57,7 +61,7 @@
     "name:spa_x_preferred":[
         "Port Elizabeth"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port-Elisabeth"
     ],
     "name:urd_x_preferred":[
@@ -89,10 +93,12 @@
     "wof:concordances":{
         "gn:id":3577844,
         "gp:id":329580,
-        "qs:id":95977,
-        "qs_pg:id":1074905,
+        "qs_pg:id":95977,
         "wd:id":"Q2995389",
         "wk:page":"Port Elizabeth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074905
     },
     "wof:country":"VC",
     "wof:created":1469051810,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":890429321,
-    "wof:lastmodified":1563234927,
+    "wof:lastmodified":1566644092,
     "wof:name":"Port Elizabeth",
     "wof:parent_id":85680437,
     "wof:placetype":"locality",

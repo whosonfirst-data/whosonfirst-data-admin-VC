@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Vincent",
     "iso:country":"VC",
+    "lbl:bbox":"-61.22044,13.11377,-61.18044,13.15377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1360304039,
-    "wof:lastmodified":1564302064,
+    "wof:lastmodified":1566644090,
     "wof:name":"Villa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

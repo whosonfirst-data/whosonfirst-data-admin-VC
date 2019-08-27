@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.23357,
     "lbl:longitude":-61.199573,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":13.23357,
     "mps:longitude":-61.199573,
     "mz:hierarchy_label":1,
@@ -815,15 +817,9 @@
     "name:ukr_x_variant":[
         "\u0421\u0435\u043d\u0442-\u0412\u0456\u043d\u0441\u0435\u043d\u0442 \u0456 \u0490\u0440\u0435\u043d\u0430\u0434\u0456\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Saint Vincent in Grenadine",
-        "St.Vincent/Grenadines"
-    ],
     "name:und_x_variant":[
-        "Saint Vincent ja Grenadiinit",
-        "Sankt Vincent og Grenadinene"
-    ],
-    "name:unk_x_variant":[
+        "St.Vincent/Grenadines",
+        "Sankt Vincent og Grenadinene",
         "State of Saint Vincent"
     ],
     "name:urd_x_preferred":[
@@ -967,7 +963,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-784",
     "statoids:ds":"WV",
@@ -1012,7 +1008,7 @@
         "mzb:id":"saint-vincent-and-the-grenadines",
         "ne:adm0_a3":"VCT",
         "nyt:id":"N11827956234224991911",
-        "qs:id":1062883,
+        "qs_pg:id":1062883,
         "uncrt:id":"WV",
         "wd:id":"Q757",
         "wk:page":"Saint Vincent and the Grenadines",
@@ -1034,7 +1030,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565738668,
+    "wof:lastmodified":1566644084,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
