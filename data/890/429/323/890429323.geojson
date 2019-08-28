@@ -11,13 +11,16 @@
     "geom:longitude":-61.220256,
     "gn:country":"VC",
     "gn:fcode":"PPLC",
-    "gn:pop":24518,
+    "gn:population":24518,
     "iso:country":"VC",
     "lbl:latitude":13.15872,
     "lbl:longitude":-61.22475,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Kingstown"
     ],
@@ -315,10 +318,12 @@
     "wof:concordances":{
         "gn:id":3577887,
         "gp:id":329564,
-        "qs:id":95979,
-        "qs_pg:id":241725,
+        "qs_pg:id":95979,
         "wd:id":"Q41474",
         "wk:page":"Kingstown"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":241725
     },
     "wof:country":"VC",
     "wof:created":1469051810,
@@ -332,7 +337,7 @@
         }
     ],
     "wof:id":890429323,
-    "wof:lastmodified":1563234924,
+    "wof:lastmodified":1566644092,
     "wof:name":"Kingstown",
     "wof:parent_id":85680451,
     "wof:placetype":"locality",

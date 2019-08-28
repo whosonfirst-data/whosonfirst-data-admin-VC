@@ -23,8 +23,12 @@
     "gn:population":1000,
     "gn:timezone":"America/St_Vincent",
     "iso:country":"VC",
+    "lbl:bbox":"-61.29275,13.21676,-61.25275,13.25676",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Barrouallie"
     ],
@@ -56,8 +60,7 @@
         "Princes Town",
         "Barrualli",
         "Barawally",
-        "Barroualie",
-        "Barrouallie"
+        "Barroualie"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u0648\u06cc\u0644\u06d2"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1193015119,
-    "wof:lastmodified":1564302060,
+    "wof:lastmodified":1566644089,
     "wof:name":"Barrouallie",
     "wof:parent_id":85680457,
     "wof:placetype":"locality",
