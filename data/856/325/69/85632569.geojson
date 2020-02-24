@@ -1016,6 +1016,10 @@
     },
     "wof:country":"VC",
     "wof:country_alpha3":"VCT",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"71a6a93d24452d11c830576dbab67bda",
     "wof:hierarchy":[
         {
@@ -1030,7 +1034,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644084,
+    "wof:lastmodified":1582393041,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

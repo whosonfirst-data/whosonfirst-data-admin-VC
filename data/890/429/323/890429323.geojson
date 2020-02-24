@@ -327,6 +327,10 @@
     },
     "wof:country":"VC",
     "wof:created":1469051810,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"89d2ab92b0aca1c5d9f75194d65ac680",
     "wof:hierarchy":[
         {
@@ -337,7 +341,7 @@
         }
     ],
     "wof:id":890429323,
-    "wof:lastmodified":1566644092,
+    "wof:lastmodified":1582393041,
     "wof:name":"Kingstown",
     "wof:parent_id":85680451,
     "wof:placetype":"locality",
