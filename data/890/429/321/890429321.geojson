@@ -102,6 +102,9 @@
     },
     "wof:country":"VC",
     "wof:created":1469051810,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8befe149645646bde03fade09858ae0b",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890429321,
-    "wof:lastmodified":1566644092,
+    "wof:lastmodified":1582393041,
     "wof:name":"Port Elizabeth",
     "wof:parent_id":85680437,
     "wof:placetype":"locality",
