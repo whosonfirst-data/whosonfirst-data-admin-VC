@@ -992,9 +992,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Saint_Vincent_and_the_Grenadines",
-        "digitalenvoy:country_code":[
-            670
-        ],
+        "digitalenvoy:country_code":670,
         "fb:id":"en.saint_vincent_and_the_grenadines",
         "fifa:id":"VIN",
         "fips:code":"VC",
@@ -1037,7 +1035,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529244,
+    "wof:lastmodified":1583797453,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
