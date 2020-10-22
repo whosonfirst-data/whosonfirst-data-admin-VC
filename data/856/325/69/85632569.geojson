@@ -9,7 +9,6 @@
     "geom:bbox":"-61.4655,12.575334,-61.119583,13.380417",
     "geom:latitude":13.1923,
     "geom:longitude":-61.206681,
-    "gn:id":"",
     "gn:population":104217,
     "iso:country":"VC",
     "itu:country_code":[
@@ -1035,7 +1034,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797453,
+    "wof:lastmodified":1603265678,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
