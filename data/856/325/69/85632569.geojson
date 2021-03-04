@@ -430,7 +430,6 @@
         "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3"
     ],
     "name:jpn_x_variant":[
-        "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3",
         "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
     ],
     "name:kab_x_preferred":[
@@ -462,8 +461,7 @@
         "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
     ],
     "name:kor_x_variant":[
-        "\uc138\uc778\ud2b8 \ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518",
-        "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
+        "\uc138\uc778\ud2b8 \ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
     ],
     "name:kur_x_preferred":[
         "Saint Vincent \u00fb girav\u00ean Grenad\u00een"
@@ -583,7 +581,6 @@
         "Saint Vincent en de Grenadines"
     ],
     "name:nld_x_variant":[
-        "Saint Vincent en de Grenadines",
         "St. Vincent en de Grenadines",
         "Sint-Vincent en de Grenadines"
     ],
@@ -601,9 +598,6 @@
     ],
     "name:nor_x_preferred":[
         "St Vincent og Grenadinene",
-        "Saint Vincent og Grenadinene"
-    ],
-    "name:nor_x_variant":[
         "Saint Vincent og Grenadinene"
     ],
     "name:nov_x_preferred":[
@@ -878,7 +872,6 @@
         "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af"
     ],
     "name:zho_x_variant":[
-        "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af",
         "\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01"
     ],
     "name:zho_yue_x_preferred":[
@@ -1035,7 +1028,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797453,
+    "wof:lastmodified":1614895899,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
