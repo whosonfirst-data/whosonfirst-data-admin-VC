@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Byera Village"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30a8\u30e9\u30fb\u30f4\u30a3\u30ec\u30c3\u30b8"
+    ],
     "name:lit_x_preferred":[
         "Bjera Vilid\u017eas"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125939197,
-    "wof:lastmodified":1566644093,
+    "wof:lastmodified":1690914896,
     "wof:name":"Byera Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -55,6 +55,12 @@
         "St. Patrick",
         "Saint Patrick Parish"
     ],
+    "name:epo_x_preferred":[
+        "Paro\u0125o Sankta Patriko"
+    ],
+    "name:eus_x_preferred":[
+        "Saint Patrick parrokia"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a \u067e\u0627\u062a\u0631\u06cc\u06a9 \u067e\u0631\u06cc\u0634\u060c \u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
     ],
@@ -94,6 +100,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud328\ud2b8\ub9ad \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud328\ud2b8\ub9ad\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentpatrika pagasts"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Patrick prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Patrick Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Patrick prestegjeld"
@@ -282,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636506372,
+    "wof:lastmodified":1690914888,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632569,
     "wof:placetype":"region",
