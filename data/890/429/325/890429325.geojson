@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Dovers"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30d0\u30fc\u30ba"
+    ],
     "name:pol_x_preferred":[
         "Dovers"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890429325,
-    "wof:lastmodified":1566644092,
+    "wof:lastmodified":1690914894,
     "wof:name":"Dovers",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

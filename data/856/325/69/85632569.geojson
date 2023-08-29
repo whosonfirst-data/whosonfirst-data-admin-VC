@@ -38,6 +38,9 @@
     "name:aka_x_preferred":[
         "Saint Vincent ne Grenadines"
     ],
+    "name:aka_x_variant":[
+        "Saint Vincent and the Grenadines"
+    ],
     "name:als_x_preferred":[
         "St. Vincent und die Grenadinen"
     ],
@@ -46,6 +49,15 @@
     ],
     "name:amh_x_variant":[
         "\u1245\u12f1\u1235 \u126a\u1295\u1234\u1295\u1275 \u12a5\u1293 \u130d\u122c\u1293\u12f2\u1295\u1235"
+    ],
+    "name:ami_x_preferred":[
+        "Saint Vincent and the Grenadines"
+    ],
+    "name:ang_x_preferred":[
+        "Halga Uincentius and \u00fea Grenadingas"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0935\u093f\u0902\u0938\u0947\u0902\u091f \u0906\u0930\u094b \u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093e\u0907\u0928\u094d\u0938"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0641\u064a\u0646\u0633\u0646\u062a \u0648\u0627\u0644\u063a\u0631\u064a\u0646\u0627\u062f\u064a\u0646"
@@ -57,6 +69,9 @@
     ],
     "name:arg_x_preferred":[
         "Sant Vicent y as Granadinas"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u0627\u0646 \u06a4\u064a\u0646\u0633\u0646\u062a \u0624\u0644\u06ad\u0631\u0646\u0627\u062f\u064a\u0646\u0632"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0641\u064a\u0646\u0633\u064a\u0646\u062a \u0648 \u0627\u0644\u062c\u0631\u064a\u0646\u0627\u062f\u064a\u0646\u0632"
@@ -87,6 +102,9 @@
     "name:bam_x_preferred":[
         "Vinis\u025bn-Senu-ni-Grenadini"
     ],
+    "name:ban_x_preferred":[
+        "Saint Vinc\u00e9nt miwah Gr\u00e9nadines"
+    ],
     "name:bar_x_preferred":[
         "St. Vincent und de Grenadinen"
     ],
@@ -104,7 +122,11 @@
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f \u0993 \u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09be\u0987\u09a8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
     "name:ben_x_variant":[
-        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f \u0993 \u09a6\u09cd\u09af\u09be \u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09bf\u09a8\u09b8"
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f \u0993 \u09a6\u09cd\u09af\u09be \u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09bf\u09a8\u09b8",
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f \u0993 \u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09be\u0987\u09a8"
+    ],
+    "name:bis_x_preferred":[
+        "Sen-Vinsen mo Grenadin"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f56\u0f72\u0f53\u0f0b\u0f66\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f51\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f0b\u0f4c\u0f72\u0f53\u0f0b\u0f66\u0f72\u0f0d"
@@ -169,6 +191,9 @@
     "name:cor_x_preferred":[
         "Sen Vinsent ha'n Ynysow Grenadinek"
     ],
+    "name:cos_x_preferred":[
+        "Saint Vincent \u00e8 Grenadini"
+    ],
     "name:crh_x_preferred":[
         "Sent Vinsent ve Grenadinler"
     ],
@@ -176,7 +201,11 @@
         "Saint Vincent a'r Grenadines"
     ],
     "name:cym_x_variant":[
-        "Saint Vincent a\u2019r Grenadines"
+        "Saint Vincent a\u2019r Grenadines",
+        "Sant Vincent a'r Grenadines"
+    ],
+    "name:dag_x_preferred":[
+        "St. Vincent & Grenadines"
     ],
     "name:dan_x_preferred":[
         "Saint Vincent og Grenadinerne"
@@ -189,6 +218,9 @@
     ],
     "name:deu_x_variant":[
         "St. Vincent und Grenadinen"
+    ],
+    "name:diq_x_preferred":[
+        "Saint Vincent u Grenadinan"
     ],
     "name:div_x_preferred":[
         "\u0790\u07a6\u0782\u07b0\u078c\u07a8 \u0788\u07a8\u0790\u07ac\u0782\u07b0\u0793\u07ad \u0787\u07a6\u078b\u07a8 \u078e\u07aa\u0783\u07ac\u0782\u07a7\u0791\u07a9\u0782\u07b0"
@@ -284,6 +316,9 @@
     ],
     "name:frr_x_preferred":[
         "St. Vincent an Grenadiinen"
+    ],
+    "name:frr_x_variant":[
+        "St. Vincent an a Grenadiinen"
     ],
     "name:fry_x_preferred":[
         "Sint-Finsint en de Grenadinen"
@@ -432,6 +467,9 @@
     "name:jpn_x_variant":[
         "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
     ],
+    "name:kaa_x_preferred":[
+        "Sent-vinsent ha'm Grenadin"
+    ],
     "name:kab_x_preferred":[
         "Saint Vincent ed Grenadines"
     ],
@@ -499,6 +537,9 @@
     "name:lit_x_variant":[
         "\u0160ventasis Vincentas ir Grenadinai"
     ],
+    "name:lld_x_preferred":[
+        "San Zenz y la Grenadines"
+    ],
     "name:lmo_x_preferred":[
         "San Vincenz e Grenadin"
     ],
@@ -514,6 +555,9 @@
     "name:lug_x_preferred":[
         "Senti Vinsenti ne Gurendadiini"
     ],
+    "name:mad_x_preferred":[
+        "Saint Vincent b\u00e2n The Grenadines"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d2f\u0d4d\u0d28\u0d4d\u0d31\u0d4d \u0d35\u0d3f\u0d7b\u0d38\u0d28\u0d4d\u0d31\u0d4d \u0d17\u0d4d\u0d30\u0d28\u0d21\u0d40\u0d7b\u0d38\u0d4d"
     ],
@@ -525,6 +569,15 @@
     ],
     "name:mar_x_variant":[
         "\u0938\u0947\u0902\u091f \u0935\u094d\u0939\u093f\u0928\u094d\u0938\u0947\u0902\u091f \u0906\u0923\u093f \u0917\u094d\u0930\u0947\u0928\u0921\u093e\u0907\u0928\u094d\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u043d\u0442-\u0412\u0438\u043d\u0441\u044d\u043d\u0442 \u0434\u044b \u0413\u0440\u044d\u043d\u0430\u0434\u0438\u043d\u0442"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0434\u0430 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Saint Vincent jo Grenadine"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u0412\u0438\u043d\u0446\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0438"
@@ -543,6 +596,12 @@
     ],
     "name:mlt_x_variant":[
         "Saint Vincent and the Grenadines"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe6\uabdf\uabe0 \uabda\uabe4\uabdf\uabc1\uabe6\uabdf\uabe0 \uabd1\uabc3\uabd7\uabe4 \uabd2\uabed\uabd4\uabe6\uabc5\uabe5\uabd7\uabe4\uabdf\uabc1"
+    ],
+    "name:mri_x_preferred":[
+        "Hato W\u0113neti me ng\u0101 Kerenar\u012bna"
     ],
     "name:msa_x_preferred":[
         "Saint Vincent dan Grenadines"
@@ -689,6 +748,9 @@
     "name:sgs_x_preferred":[
         "Sent Vinsents \u0117r Gr\u0117nadin\u0101"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1035\u1004\u103a\u1089\u101d\u102d\u107c\u103a\u1038\u101e\u1085\u107c\u103a\u1089 \u101c\u1084\u1088 \u1075\u101b\u1084\u1038\u107c\u1083\u1038\u1010\u102d\u107c\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dc0\u0dd2\u0db1\u0dca\u0dc3\u0db1\u0dca\u0da7\u0dca \u0dc3\u0dc4 \u0d9c\u0dca\u200d\u0dbb\u0dd9\u0db1\u0dcf\u0da9\u0dd2\u0db1\u0dca\u0dc3\u0dca"
     ],
@@ -711,8 +773,20 @@
     "name:sme_x_variant":[
         "Saint Vincent ja Grenadiinnat"
     ],
+    "name:smn_x_preferred":[
+        "Saint Vincent j\u00e1 Grenadiineh"
+    ],
+    "name:smo_x_preferred":[
+        "Saint Vincent ma Grenadine"
+    ],
+    "name:sms_x_preferred":[
+        "Saint Vincent da Grenadiin"
+    ],
     "name:sna_x_preferred":[
         "Saint Vincent and the Grenadines"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u064a\u0646\u067d \u0648\u0646\u0633\u0646\u067d \u06fd \u06af\u0631\u064a\u0646\u0627\u068a\u0627\u0626\u0646\u0632"
     ],
     "name:som_x_preferred":[
         "Saint Vincent and the Grenadines"
@@ -730,6 +804,9 @@
     ],
     "name:sqi_x_variant":[
         "Saint Vincent e Grenadinet"
+    ],
+    "name:srd_x_preferred":[
+        "Saint Vincent e sas Grenadinas"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d\u0442 \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0438"
@@ -775,6 +852,9 @@
     "name:tet_x_preferred":[
         "Saun Visente no Granadinas"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0432\u0430 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u04b3\u043e"
+    ],
     "name:tgl_x_preferred":[
         "Saint Vincent and the Grenadines"
     ],
@@ -793,14 +873,23 @@
     "name:ton_x_preferred":[
         "Seini Viniseni mo Kulenatini"
     ],
+    "name:ton_x_variant":[
+        "S\u0101 Viniseni mo Kulenatini"
+    ],
     "name:tuk_x_preferred":[
         "Sent-Winsent we Grenadin"
+    ],
+    "name:tum_x_preferred":[
+        "Saint Vincent na Grenadines"
     ],
     "name:tur_x_preferred":[
         "Saint Vincent ve Grenadinler"
     ],
     "name:tur_x_variant":[
         "Saint Vincent ve Grenadines"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u043d\u043e \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d"
     ],
     "name:uig_x_preferred":[
         "\u0633\u06d0\u0646\u062a \u06cb\u0649\u0646\u0633\u06d0\u0646\u062a \u06cb\u06d5 \u06af\u0631\u06d0\u0646\u0627\u062f\u0649\u0646 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
@@ -824,6 +913,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sent Vinsent va Grenadinlar"
+    ],
+    "name:vec_x_preferred":[
+        "St. Vincent e Grenadine"
     ],
     "name:vep_x_preferred":[
         "Sent Vinsent da Grenadinad"
@@ -1093,7 +1185,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827727,
+    "wof:lastmodified":1690914891,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
