@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033954,
-    "geom:area_square_m":408771676.36988,
+    "geom:area_square_m":408771624.430629,
     "geom:bbox":"-61.4655,12.575334,-61.119583,13.380417",
     "geom:latitude":13.1923,
     "geom:longitude":-61.206681,
@@ -16,6 +16,9 @@
         "1-784"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "VC"
     ],
@@ -1113,7 +1116,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-784",
     "statoids:ds":"WV",
     "statoids:fifa":"VIN",
@@ -1171,7 +1175,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"b62e0e102e8142d9f15c5d572cf67640",
+    "wof:geomhash":"9245e08531f90ca6bf6c0d5ea8280027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1185,12 +1189,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914891,
+    "wof:lastmodified":1694492120,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":109373,
-    "wof:population_rank":9,
+    "wof:population":110589,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vc",
     "wof:shortcode":"VC",
     "wof:superseded_by":[],
