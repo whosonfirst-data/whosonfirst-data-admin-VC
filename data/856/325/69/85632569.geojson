@@ -1155,6 +1155,7 @@
         "hasc:id":"VC",
         "icao:code":"J8",
         "ioc:id":"VIN",
+        "iso:code":"VC",
         "itu:id":"VCT",
         "loc:id":"n82123205",
         "m49:code":"670",
@@ -1169,6 +1170,7 @@
         "wk:page":"Saint Vincent and the Grenadines",
         "wmo:id":"VG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
     "wof:country_alpha3":"VCT",
     "wof:geom_alt":[
@@ -1189,7 +1191,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639573,
+    "wof:lastmodified":1695881233,
     "wof:name":"Saint Vincent and the Grenadines",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
