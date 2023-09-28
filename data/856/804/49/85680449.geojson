@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007664,
-    "geom:area_square_m":92221379.295449,
+    "geom:area_square_m":92221735.655581,
     "geom:bbox":"-61.270375,13.255334,-61.160828,13.380764",
     "geom:latitude":13.311945,
     "geom:longitude":-61.206616,
@@ -275,14 +275,16 @@
         "gn:id":3577821,
         "gp:id":2347673,
         "hasc:id":"VC.DA",
+        "iso:code":"VC-03",
         "iso:id":"VC-03",
         "qs_pg:id":219631,
         "unlc:id":"VC-03",
         "wd:id":"Q2412394",
         "wk:page":"Saint David Parish, Saint Vincent and the Grenadines"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"48985a338d5e96d5f7cfc026f1fcace3",
+    "wof:geomhash":"68f6e163cbbd967485e6914e490435ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -297,7 +299,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914891,
+    "wof:lastmodified":1695884969,
     "wof:name":"Saint David",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

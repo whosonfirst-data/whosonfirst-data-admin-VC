@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003553,
-    "geom:area_square_m":42834519.295793,
+    "geom:area_square_m":42834041.675665,
     "geom:bbox":"-61.459828,12.58515,-61.131418,13.051174",
     "geom:latitude":12.860524,
     "geom:longitude":-61.28284,
@@ -241,13 +241,15 @@
         "gn:id":3577892,
         "gp:id":2347676,
         "hasc:id":"VC.GT",
+        "iso:code":"VC-06",
         "iso:id":"VC-06",
         "qs_pg:id":1083880,
         "wd:id":"Q2545297",
         "wk:page":"Grenadines Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"fe63005eb606823f6f3cb5e68ec8d520",
+    "wof:geomhash":"b63b8d8e8361034d648c0c3b4781abcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -262,7 +264,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914890,
+    "wof:lastmodified":1695884969,
     "wof:name":"Grenadines",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

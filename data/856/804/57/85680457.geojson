@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003804,
-    "geom:area_square_m":45786539.810854,
+    "geom:area_square_m":45786908.300786,
     "geom:bbox":"-61.279368,13.18651,-61.187706,13.276009",
     "geom:latitude":13.237244,
     "geom:longitude":-61.242702,
@@ -272,14 +272,16 @@
         "gn:id":3577818,
         "gp:id":2347675,
         "hasc:id":"VC.PA",
+        "iso:code":"VC-05",
         "iso:id":"VC-05",
         "qs_pg:id":895014,
         "unlc:id":"VC-05",
         "wd:id":"Q1864637",
         "wk:page":"Saint Patrick Parish, Saint Vincent and the Grenadines"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"47356efb10513b214fb1f8462246bdc3",
+    "wof:geomhash":"97a3647b08cc89ee59c75e90028155bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914888,
+    "wof:lastmodified":1695884969,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632569,
     "wof:placetype":"region",
