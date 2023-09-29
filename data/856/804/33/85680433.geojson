@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008589,
-    "geom:area_square_m":103368689.013123,
+    "geom:area_square_m":103369113.183113,
     "geom:bbox":"-61.200162,13.197849,-61.123931,13.379952",
     "geom:latitude":13.278036,
     "geom:longitude":-61.154523,
@@ -273,14 +273,16 @@
         "gn:id":3577934,
         "gp:id":2347671,
         "hasc:id":"VC.CH",
+        "iso:code":"VC-01",
         "iso:id":"VC-01",
         "qs_pg:id":219630,
         "unlc:id":"VC-01",
         "wd:id":"Q2075188",
         "wk:page":"Charlotte Parish, Saint Vincent and the Grenadines"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"65213cec76d75d348db22aa08a3c9bb8",
+    "wof:geomhash":"d8c3c498759d85296a3d49f4beabbfab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -295,7 +297,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914889,
+    "wof:lastmodified":1695884969,
     "wof:name":"Charlotte",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

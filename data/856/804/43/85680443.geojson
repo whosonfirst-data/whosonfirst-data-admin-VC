@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002807,
-    "geom:area_square_m":33791395.646107,
+    "geom:area_square_m":33790727.753991,
     "geom:bbox":"-61.271352,13.163366,-61.192773,13.239298",
     "geom:latitude":13.200909,
     "geom:longitude":-61.228754,
@@ -278,14 +278,16 @@
         "gn:id":3577822,
         "gp:id":2347672,
         "hasc:id":"VC.AN",
+        "iso:code":"VC-02",
         "iso:id":"VC-02",
         "qs_pg:id":1311991,
         "unlc:id":"VC-02",
         "wd:id":"Q2305115",
         "wk:page":"Saint Andrew Parish, Saint Vincent and the Grenadines"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"b3fdd0d7878211bff0876153ac04cbde",
+    "wof:geomhash":"cb0b1adb850d3e3653327a8c19c20b29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914890,
+    "wof:lastmodified":1695884969,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632569,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004619,
-    "geom:area_square_m":55606708.328836,
+    "geom:area_square_m":55606714.449148,
     "geom:bbox":"-61.237904,13.132514,-61.135536,13.216687",
     "geom:latitude":13.174094,
     "geom:longitude":-61.185098,
@@ -279,14 +279,16 @@
         "gn:id":3577819,
         "gp:id":2347674,
         "hasc:id":"VC.GE",
+        "iso:code":"VC-04",
         "iso:id":"VC-04",
         "qs_pg:id":319285,
         "unlc:id":"VC-04",
         "wd:id":"Q2300294",
         "wk:page":"Saint George Parish, Saint Vincent and the Grenadines"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VC",
-    "wof:geomhash":"8be15048ca73f1666e4429dda28e320c",
+    "wof:geomhash":"93486ccc242783c09a8a6641b28bf5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -301,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690914889,
+    "wof:lastmodified":1695884969,
     "wof:name":"Saint George",
     "wof:parent_id":85632569,
     "wof:placetype":"region",
